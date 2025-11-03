@@ -23,9 +23,9 @@ A versão inicial do projeto contém os seguintes arquivos:
 
 📁 ONG-MUSICA-VIVA
 │
-├── index.html -> Página inicial com apresentação da ONG
-├── projetos.html -> Página com descrição dos projetos sociais desenvolvidos
-└── cadastro.html -> Página com formulário de cadastro para voluntários
+├── index.html -> Página inicial com apresentação da ONG</br>
+├── projetos.html -> Página com descrição dos projetos sociais desenvolvidos</br>
+└── cadastro.html -> Página com formulário de cadastro para voluntários</br>
 
 ---
 
