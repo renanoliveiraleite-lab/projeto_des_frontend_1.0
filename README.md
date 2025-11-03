@@ -21,8 +21,8 @@ Nesta primeira fase, o foco está na criação das páginas com marcação HTML,
 
 A versão inicial do projeto contém os seguintes arquivos:
 
-📁 ONG-MUSICA-VIVA
-│
+📁 ONG-MUSICA-VIVA</br>
+│</br>
 ├── index.html -> Página inicial com apresentação da ONG</br>
 ├── projetos.html -> Página com descrição dos projetos sociais desenvolvidos</br>
 └── cadastro.html -> Página com formulário de cadastro para voluntários</br>
